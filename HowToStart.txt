@@ -1,0 +1,4 @@
+conda activate learnsy
+cd ~/Documents/learnsy-desktop
+npm run dev
+
