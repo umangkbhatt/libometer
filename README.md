@@ -1,4 +1,5 @@
 # LiboMeter
+Inspired by [Learsy](https://learnsy.vercel.app/) 
 
 Turn YouTube playlists into courses you can track. LiboMeter is a desktop app that keeps everything on your own computer.
 
